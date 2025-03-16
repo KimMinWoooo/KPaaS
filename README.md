@@ -62,7 +62,7 @@ PW: asas1212!
 
 ## 2.🤼 팀원 소개
 
-|FE 신민재|BE 임지혁|BE 정지현|BE 김민우|
+|FE 신민재|BE 임지혁|BE 정지현|FE, Cloud 김민우|
 |:---:|:---:|:---:|:---:|
 |<img alt="민재 프로필" src="https://github.com/user-attachments/assets/ae08e409-020d-4d3d-9d6d-91b1f5babfbd" width="200" height="200">|<img width="200" height="200" alt="지혁프로필" src="https://github.com/user-attachments/assets/47a337ad-5d27-4e8d-a7bf-53ce6e6f7879">|<img width="200" height="200" alt="지현프로필" src="https://github.com/user-attachments/assets/a2f66640-dc98-4aea-827f-bcc6ad973cf3">|<img width="200" height="200" alt="민우 프로필" src="https://github.com/user-attachments/assets/254d7b40-2513-4dd4-becd-81f4b8da8104">|
 |[🔗GitHub](https://github.com/SMJ426)|[🔗GitHub](https://github.com/jihyuk0414)|[🔗GitHub](https://github.com/stophyeon)|[🔗GitHub](https://github.com/KimMinWoooo)|
